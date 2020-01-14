@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import turtle
 
 def draw_san(distance):
